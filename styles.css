@@ -1,0 +1,25 @@
+.contenido {
+    background-color: #5B493C;
+}
+.banner {
+    padding: 15px;
+}
+.leftmenu {
+    background-color: #F99A3E;
+}
+.topmenu {
+    background-color: #C39182;
+    text-align: center;
+}
+.maincontent {
+    background-color: #F2F2F2;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.rosa {
+    background-color: #C5697A;
+}
+.azul {
+    background-color: #00A2B6;
+}
